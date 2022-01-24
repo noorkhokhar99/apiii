@@ -1,4 +1,6 @@
 {
+"university":[
+{
 "id": 1,
 "full_name": "UNIVERSIDADE FEDERAL DE MATO GROSSO",
 "name": "UFMT",
@@ -12,4 +14,8 @@
 "phone": "(65) 3615 8302",
 "created_at": "2020-08-30T02:50:17.000Z",
 "updated_at": "2020-11-27T18:40:06.000Z"
+}
+
+  
+  ]
 }
