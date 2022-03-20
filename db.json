@@ -1,19 +1,91 @@
+
 {
-"university":[
-{
-      "id" : "1",
-      "name":  "Fuuast",
+  "scholarship": [
+    {
+      "id": 1,
+      "eligibilityId": "eligibilityId",
+      "benefitId": 1,
+      "universityId": 1,
+      "universityName": "The Federal Urdu University of Arts, Science and Technology",
+      "financialAid": "sindh",
+      "applicationProcess": "bscs",
+      "extraInfo": "upadting",
+      "otherLanguageTests": "ilets",
+      "applicationDeadline": "19/08/2022",
+      "startDate": "31/08/2020",
+      "description": "The Federal Urdu University of Arts, Science and Technology;",
+      "duration": "more than year",
+      "title": "The Federal Urdu University of Arts, Science and Technology",
+      "deliveryMode": "hello",
+      "fundType": "fully/partially funded",
+      "ieltsLevel": "7/9 MIN. Score",
+      "toeflLevel": "500/667 MIN. Score",
+      "specialization": "A specialization is a focused area of study of attached to a specific major, with specific coursework beyond major requirements.",
+      "neededLanguageInfo": "bscs",
+      "aidCoverage": "upadting",
+      "name": "Fuuast",
       "country": "Pakistan",
       "city": "karachi",
       "faculties": "bscs",
-      "contactInfo":  "92",
-      "rate": "4.0" ,
+      "contactInfo": "923112167392",
+      "rate": 4,
       "state": "sindh",
-      "certifications":  "bachloar",
-      "extraInfo":  "test",
-      "imgUrl": "https://fuuast.edu.pk/wp-content/uploads/2015/05/finallogox.png",
-}
+      "certifications": "bscs",
+      "imgUrl": "https://picsum.photos/250?image=9"
 
-  
+
+      
+
+
+
+      
+      
+    },
+    {
+      "id": 2,
+      "eligibilityId": "eligibilityId",
+      "benefitId": 2,
+      "universityId": 2,
+      "universityName": "NIE",
+      "financialAid": "10.2",
+      "applicationProcess": "bscs4",
+      "extraInfo": "upadting",
+      "otherLanguageTests": "ilets",
+      "applicationDeadline": "20/08/2022",
+      "startDate": "11/08/2020",
+      "description" : "The nie Urdu University of Arts, Science ;",
+      "duration": "more than year",
+      "title": "UOP",
+      "deliveryMode": "hello",
+      "fundType": "fully/partially funded",
+      "ieltsLevel": "7/9 MIN. Score",
+      "toeflLevel": "500/667 MIN. Score",
+      "specialization": "A specialization is a focused area of study of attached to a specific major, with specific coursework beyond major requirements.",
+      "neededLanguageInfo": "bscs",
+      "aidCoverage": "upadting",
+                  
+      "name": "university of peshawar",
+"country": "Pakistan",
+"city": "karachi",
+"faculties": "Computer science",
+"contactInfo": "923112167392",
+"rate": 3,
+"state": "sindh",
+"certifications": "bscs",
+"imgUrl": "https://picsum.photos/250?image=9"
+
+
+
+    }
+
+    
+   
+    
+    
+     
+    
+        
+   
   ]
+  
 }
