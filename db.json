@@ -1,17 +1,17 @@
 {
 "university":[
 {
-      id : 1,
-      name:  'Fuuast',
-      country: 'Pakistan',
-      city: 'karachi',
-      faculties: 'bscs',
-      contactInfo:  '92',
-      rate: 4.0 ,
-      state: 'sindh',
-      certifications:  'bachloar',
-      extraInfo:  'test',
-      imgUrl: 'https://fuuast.edu.pk/wp-content/uploads/2015/05/finallogox.png'
+      "id" : 1,
+      "name":  'Fuuast',
+      "country": 'Pakistan',
+      "city": 'karachi',
+      "faculties": 'bscs',
+      "contactInfo":  '92',
+      "rate": 4.0 ,
+      "state": 'sindh',
+      "certifications":  'bachloar',
+      "extraInfo":  'test',
+      "imgUrl": 'https://fuuast.edu.pk/wp-content/uploads/2015/05/finallogox.png'
 }
 
   
