@@ -2,8 +2,8 @@
 "university":[
 {
       "id" : "1",
-      "name":  'Fuuast',
-      "country": 'Pakistan',
+      "name":  "Fuuast",
+      "country": "Pakistan",
       "city": 'karachi',
       "faculties": 'bscs',
       "contactInfo":  '92',
